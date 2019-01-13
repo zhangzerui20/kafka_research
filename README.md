@@ -1,2 +1,6 @@
 # kafka_research
-Research on Kafka
+最近开始学习kafka，这里记录学习的过程。目前准备包括以下几个部分：
+- docker环境的搭建
+- 作者相关文章的总结
+- 部分源码的研究与分析
+
