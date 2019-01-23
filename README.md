@@ -4,4 +4,4 @@
 - 作者相关文章的总结
 - 部分源码的研究与分析
 
-[第一章：联调环境的搭建](kafka_research/docs/kafka-docker.md)
+[第一章：联调环境的搭建](docs/kafka-docker.md)
